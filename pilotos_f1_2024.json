@@ -1,0 +1,24 @@
+{
+    "pilotos": [
+      {"id": 1,  "nombre": "Max Verstappen",   "equipo": "Red Bull Racing",       "dorsal": 1},
+      {"id": 2,  "nombre": "Sergio Pérez",     "equipo": "Red Bull Racing",       "dorsal": 11},
+      {"id": 3,  "nombre": "Lewis Hamilton",   "equipo": "Mercedes-AMG Petronas", "dorsal": 44},
+      {"id": 4,  "nombre": "George Russell",   "equipo": "Mercedes-AMG Petronas", "dorsal": 63},
+      {"id": 5,  "nombre": "Charles Leclerc",  "equipo": "Scuderia Ferrari",      "dorsal": 16},
+      {"id": 6,  "nombre": "Carlos Sainz",     "equipo": "Scuderia Ferrari",      "dorsal": 55},
+      {"id": 7,  "nombre": "Fernando Alonso",  "equipo": "Aston Martin",          "dorsal": 14},
+      {"id": 8,  "nombre": "Lance Stroll",     "equipo": "Aston Martin",          "dorsal": 18},
+      {"id": 9,  "nombre": "Lando Norris",     "equipo": "McLaren",               "dorsal": 4},
+      {"id": 10, "nombre": "Oscar Piastri",    "equipo": "McLaren",               "dorsal": 81},
+      {"id": 11, "nombre": "Esteban Ocon",     "equipo": "Alpine",                "dorsal": 31},
+      {"id": 12, "nombre": "Pierre Gasly",     "equipo": "Alpine",                "dorsal": 10},
+      {"id": 13, "nombre": "Valtteri Bottas",  "equipo": "Alfa Romeo",            "dorsal": 77},
+      {"id": 14, "nombre": "Zhou Guanyu",      "equipo": "Alfa Romeo",            "dorsal": 24},
+      {"id": 15, "nombre": "Kevin Magnussen",  "equipo": "Haas F1 Team",          "dorsal": 20},
+      {"id": 16, "nombre": "Nico Hülkenberg",  "equipo": "Haas F1 Team",          "dorsal": 27},
+      {"id": 17, "nombre": "Yuki Tsunoda",     "equipo": "AlphaTauri",            "dorsal": 22},
+      {"id": 18, "nombre": "Daniel Ricciardo", "equipo": "AlphaTauri",            "dorsal": 3},
+      {"id": 19, "nombre": "Alexander Albon",  "equipo": "Williams",              "dorsal": 23},
+      {"id": 20, "nombre": "Logan Sargeant",   "equipo": "Williams",              "dorsal": 2}
+    ]
+}
